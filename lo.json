@@ -1,0 +1,113 @@
+{
+  "ID": 8287,
+  "site_ID": 144855162,
+  "author": {
+    "ID": 193033066,
+    "login": "fpgfamily1",
+    "email": false,
+    "name": "fpgfamily1",
+    "first_name": "",
+    "last_name": "",
+    "nice_name": "fpgfamily1",
+    "URL": "",
+    "avatar_URL": "https://secure.gravatar.com/avatar/6b2548b2a170dcddbb8f6efc5c97fbe9?s=96&d=mm&r=g",
+    "profile_URL": "https://en.gravatar.com/6b2548b2a170dcddbb8f6efc5c97fbe9"
+  },
+  "date": "2022-01-26T01:34:10-06:00",
+  "modified": "2022-02-09T12:05:09-06:00",
+  "title": "Videos",
+  "URL": "https://fpgfamily.com/fpgvideos/",
+  "short_URL": "https://wp.me/p9NNrA-29F",
+  "content": "https://videos.files.wordpress.com/YMuYssnR/power-of-affirmation.mp4",
+  "excerpt": "",
+  "slug": "fpgvideos",
+  "guid": "https://fpgfamily.com/?p=8287",
+  "status": "publish",
+  "sticky": false,
+  "password": "",
+  "parent": false,
+  "type": "post",
+  "discussion": {
+    "comments_open": true,
+    "comment_status": "open",
+    "pings_open": true,
+    "ping_status": "open",
+    "comment_count": 0
+  },
+  "likes_enabled": true,
+  "sharing_enabled": true,
+  "like_count": 0,
+  "i_like": false,
+  "is_reblogged": false,
+  "is_following": false,
+  "global_ID": "dfea33272444b396126b63549d615f2f",
+  "featured_image": "",
+  "format": "standard",
+  "geo": false,
+  "menu_order": 0,
+  "page_template": "",
+  "publicize_URLs": [],
+  "terms": {
+    "category": {
+      "Faith Pleases God Church Videos": {
+        "ID": 677,
+        "name": "Faith Pleases God Church Videos",
+        "slug": "faith-pleases-god-church",
+        "description": "",
+        "post_count": 1,
+        "parent": 444,
+        "meta": {
+          "links": {
+            "self": "https://public-api.wordpress.com/rest/v1.1/sites/144855162/categories/slug:faith-pleases-god-church",
+            "help": "https://public-api.wordpress.com/rest/v1.1/sites/144855162/categories/slug:faith-pleases-god-church/help",
+            "site": "https://public-api.wordpress.com/rest/v1.1/sites/144855162"
+          }
+        }
+      }
+    },
+    "post_tag": {},
+    "post_format": {}
+  },
+  "tags": {},
+  "categories": {
+    "Faith Pleases God Church Videos": {
+      "ID": 677,
+      "name": "Faith Pleases God Church Videos",
+      "slug": "faith-pleases-god-church",
+      "description": "",
+      "post_count": 1,
+      "meta": {
+        "links": {
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/144855162/categories/slug:faith-pleases-god-church",
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/144855162/categories/slug:faith-pleases-god-church/help",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/144855162"
+        }
+      },
+      "parent": 444
+    }
+  },
+  "attachments": {},
+  "attachment_count": 0,
+  "metadata": [
+    {
+      "id": "26583",
+      "key": "_wpas_done_all",
+      "value": "1"
+    }
+  ],
+  "meta": {
+    "links": {
+      "self": "https://public-api.wordpress.com/rest/v1.1/sites/144855162/posts/8287",
+      "help": "https://public-api.wordpress.com/rest/v1.1/sites/144855162/posts/8287/help",
+      "site": "https://public-api.wordpress.com/rest/v1.1/sites/144855162",
+      "replies": "https://public-api.wordpress.com/rest/v1.1/sites/144855162/posts/8287/replies/",
+      "likes": "https://public-api.wordpress.com/rest/v1.1/sites/144855162/posts/8287/likes/"
+    }
+  },
+  "capabilities": {
+    "publish_post": false,
+    "delete_post": false,
+    "edit_post": false
+  },
+  "other_URLs": {}
+}
